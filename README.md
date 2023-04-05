@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmalkam&label=Profile%20views&color=0e75b6&style=flat" alt="lmalkam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmalkam" alt="lmalkam" /></a> </p>
-
 - 🌱 I’m currently learning **Django and Machine Learning**
 
 - 📫 How to reach me **lineshmalkam@gmail.com**
