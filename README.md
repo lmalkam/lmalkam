@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmalkam&label=Profile%20views&color=0e75b6&style=flat" alt="lmalkam" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently building projects with **MERN**
 
 - 📫 How to reach me **lineshmalkam@gmail.com**
 
